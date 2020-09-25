@@ -1,4 +1,8 @@
-# 03 JavaScript: Password Generator
+# JavaScript: Password Generator
+
+This webpage prompts the user with various questions. Based on the users answers, the webpage will generate a random password for the user to keep. 
+
+![Example of webpage](Assets/Caseys-Password-Genorator.png)
 
 ## Your Task
 
