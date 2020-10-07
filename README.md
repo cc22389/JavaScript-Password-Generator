@@ -4,5 +4,8 @@ This webpage prompts the user with various questions. Based on the users answers
 
 ![Example of webpage](Assets/Caseys-Password-Generator.PNG)
 
-Below is the link to try it yourself!
+# Links
+
 https://cc22389.github.io/JavaScript-Password-Generator/Develop/
+
+https://github.com/cc22389/Password-Generator.git
